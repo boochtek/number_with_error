@@ -6,11 +6,11 @@ Gem::Specification.new do |s|
   s.name        = "number_with_error"
   s.version     = NumberWithError::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["TODO: Write your name"]
-  s.email       = ["TODO: Write your email address"]
-  s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.authors     = ['Craig Buchek']
+  s.email       = ['craig@boochtek.com']
+  s.homepage    = "http://github.com/boochtek/#{s.name}"
+  s.summary     = %q{Number with an error range}
+  s.description = %q{Number with an error range, for example 10.12 +/- 0.02}
 
   s.rubyforge_project = "number_with_error"
 
