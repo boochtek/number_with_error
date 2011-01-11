@@ -1,3 +1,3 @@
-module NumberWithError
+class NumberWithError
   # Your code goes here...
 end
