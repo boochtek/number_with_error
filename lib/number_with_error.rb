@@ -1,0 +1,3 @@
+module NumberWithError
+  # Your code goes here...
+end
